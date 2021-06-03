@@ -51,3 +51,7 @@ https://y9h02fsv25w8xaly.uzcdn828.net:8443/hls/ct1xnwfz77gc.m3u8?s=prbKpjkZYiRdG
 #EXTINF:-1 ,FX
 
 https://y9h02fsv25w8xaly.uzcdn828.net:8443/hls/tmrzr0.m3u8?s=mLXPwqqh2LHZFNBebQpudg&e=1620548463
+
+#EXTINF:-1 ,TNTSeries
+
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_360_av-p.m3u8?sd=10&rebase=on&id=AgC6RXz9yD%2fBTsUkuGC9tCYXcVohR3zCdA8VGjM4VjPh+kDq8NxkLAuMPBQnOiIm%2fao4Wmv3qMpZNg%3d%3d&hdntl=exp=1622767173~acl=%2f*~data=hdntl~hmac=9219bd166c704b3890435d758999309272dcaa1d21bd0a6a055d2b19c9a7be4f
